@@ -2,12 +2,12 @@
 
 default partial alphanumeric_keys
 xkb_symbols "ikbaeb" {
-    name[Group1]= "IKBAEB - Thai Stupid Layout ";
+    name[Group1]= "IKBAEB - Thai Stupid Layout";
     // converted to THai keysysms - Pablo Saratxaga pablo@mandrakesoft.com
     
     key <TLDE> { [ apostrophe,		grave		] };
     
-    key <AE01> { [ 1,	exclam,		Thai_leknung		] };
+    key <AE01> { [ 1,	exclam,		Thai_leknung	] };
     key <AE02> { [ 2,	quotedbl,	Thai_leksong	] };
     key <AE03> { [ 3,	slash,		Thai_leksam		] };
     key <AE04> { [ 4,	comma,		Thai_leksi		] };
@@ -18,7 +18,7 @@ xkb_symbols "ikbaeb" {
     key <AE09> { [ 9,	parenright,	Thai_lekkao		] };
     key <AE10> { [ 0,	underscore,	Thai_leksun		] };
     key <AE11> { [ minus,equal,		asterisk		] };
-    key <AE12> { [ plus,			asciitilde		] };
+    key <AE12> { [ plus,asciitilde,	asciicircum		] };
 
 	key <AD01> { [ Thai_khokhai,	Thai_fofa,			Thai_khokhuat	] };
     key <AD02> { [ Thai_popla,		Thai_honokhuk,		0x1000e4f		] };
@@ -27,7 +27,7 @@ xkb_symbols "ikbaeb" {
     key <AD05> { [ Thai_dodek,		Thai_ru,			Thai_lu			] };
     key <AD06> { [ Thai_phophan,	Thai_fofan			] };
     key <AD07> { [ Thai_sarai,		Thai_saraue			] };
-    key <AD08> { [ Thai_maitho,		Thai_maitaikhu		] };
+    key <AD08> { [ Thai_maitho,		Thai_maitaikhu,		ampersand		] };
     key <AD09> { [ Thai_saraii,		Thai_sarauee		] };
     key <AD10> { [ Thai_saraaimaimalai,		Thai_saraaimaimuan] };
     key <AD11> { [ Thai_saraae,	Thai_paiyannoi,		0x1000e5a		] };
@@ -43,7 +43,7 @@ xkb_symbols "ikbaeb" {
 	key <AC08> { [ Thai_yoyak,		Thai_chochang		] };
     key <AC09> { [ Thai_oang,		Thai_sarao			] };
     key <AC10> { [ Thai_wowaen,		Thai_saraam,		Thai_nikhahit	] };
-    key <AC11> { [ Thai_sarauu,		Thai_sarau			] };
+    key <AC11> { [ Thai_sarauu,		Thai_sarau,			apostrophe      ] };
     
     key <AB01> { [ Thai_thothahan,	Thai_khorakhang		] };
     key <AB02> { [ Thai_bobaimai,	Thai_topatak		] };
@@ -51,13 +51,13 @@ xkb_symbols "ikbaeb" {
     key <AB04> { [ Thai_moma,		Thai_nonen			] };
     key <AB05> { [ Thai_totao,		Thai_thonangmontho	] };
     key <AB06> { [ Thai_maiek,		Thai_maichattawa,	Thai_phinthu	] };
-    key <AB07> { [ Thai_sarae,		Thai_thothong,question		] };
-    key <AB08> { [ Thai_saraa,		Thai_dochada		] };
-    key <AB09> { [ Thai_chochan,	Thai_choching		] };
+    key <AB07> { [ Thai_sarae,		Thai_thothong,		question		] };
+    key <AB08> { [ Thai_saraa,		Thai_dochada,		comma			] };
+    key <AB09> { [ Thai_chochan,	Thai_choching,		period          ] };
     key <AB10> { [ Thai_maitri,		Thai_lochula		] };
 
     key <CAPS> { [ BackSpace,		Escape,				BackSpace		] };
-    key <BKSL> { [ Thai_baht,		asciicircum	] };
+    key <BKSL> { [ Thai_baht,		numbersign,			dollar	] };
     key <LSGT> { [ Shift_L,			Shift_L		] };
     key <LFSH> { [ Shift_L,			Shift_L				] };
     key <LALT> { [ Shift_L,			Alt_L,				Shift_L			] };

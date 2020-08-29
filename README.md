@@ -5,3 +5,4 @@ Alternative Thai keyboard layout. Not Ketmanee nor Pattajoti.
 ![IKBAEP-th layout](IKBAEP.svg)
 
 IKBAEP is Thai word "อีกแบบ", mean Alternative.
+But "อีกแบบ" is too ordinary, so I call "อี๊กแบ็บ".

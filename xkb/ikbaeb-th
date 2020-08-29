@@ -1,8 +1,8 @@
 // based on a keyboard map from an 'xkb/symbols/th' file
 
 default partial alphanumeric_keys
-xkb_symbols "tsta" {
-    name[Group1]= "Thai Stupid Thai-revered Thainum ";
+xkb_symbols "ikbaeb" {
+    name[Group1]= "IKBAEB - Thai Stupid Layout ";
     // converted to THai keysysms - Pablo Saratxaga pablo@mandrakesoft.com
     
     key <TLDE> { [ Thai_baht,		asciitilde		] };

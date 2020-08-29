@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="IKBAEB.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg8538"
+   height="360"
+   width="920">
+  <defs
+     id="defs8540">
+    <inkscape:path-effect
+       simplify_just_coalesce="false"
+       simplify_individual_paths="false"
+       helper_size="0"
+       smooth_angles="360"
+       threshold="0.0001"
+       steps="1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect4334"
+       effect="simplify" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect4332"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.0001"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4264-3"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4262-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4332-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart">
+      <path
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4330-5" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="742"
+     inkscape:window-width="1366"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer4"
+     inkscape:document-units="px"
+     inkscape:cy="29.387573"
+     inkscape:cx="84.905314"
+     inkscape:zoom="11.399791"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="false" />
+  <metadata
+     id="metadata8543">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="BG"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       id="rect1823"
+       width="920"
+       height="360"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     transform="translate(0,-872.3598)"
+     id="g1794"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy copy"
+     style="display:inline">
+    <path
+       id="path1607"
+       d="m 25.000006,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1609"
+       d="m 81.000008,940.64544 h 30.000002 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 H 81.000008 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1611"
+       d="m 137.00001,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1613"
+       d="m 193,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1615"
+       d="m 249,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1617"
+       d="m 305,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1619"
+       d="m 361,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1621"
+       d="m 417,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1623"
+       d="m 473,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1625"
+       d="m 529,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1627"
+       d="m 585,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1629"
+       d="m 641,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1631"
+       d="m 697.00006,940.64544 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1633"
+       d="m 753.00006,940.64544 h 56.88222 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -56.88222 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path1635"
+       d="m 25.000006,996.64544 h 58 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -58 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1637"
+       d="m 109.00001,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10.000002,-4.46 -10.000002,-10 v -30 c 0,-5.54 4.460002,-9.99996 10.000002,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1639"
+       d="m 165,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1641"
+       d="m 221,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1643"
+       d="m 277,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1645"
+       d="m 333,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1647"
+       d="m 389,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1649"
+       d="m 445,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1651"
+       d="m 501,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1653"
+       d="m 557,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1655"
+       d="m 613,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1657"
+       d="m 669.00006,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1659"
+       d="m 725.00006,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1661"
+       d="m 25.000006,1052.6454 h 72 c 5.540004,0 10.000004,4.46 10.000004,10 v 30 c 0,5.54 -4.46,10 -10.000004,10 h -72 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1663"
+       d="m 123.00001,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1665"
+       d="m 179,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1667"
+       d="m 235,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1669"
+       d="m 291,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1671"
+       d="m 347,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1673"
+       d="m 403,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1676"
+       d="m 459,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1678"
+       d="m 515,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1680"
+       d="m 571,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1682"
+       d="m 627,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1684"
+       d="m 683.00006,1052.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1686"
+       d="m 739.00006,1052.6454 h 72.09454 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -72.09454 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path1688"
+       d="M 25.000006,1108.6454 H 66.79076 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 H 25.000006 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path1690"
+       d="m 149,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1692"
+       d="m 205,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1694"
+       d="m 261,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1696"
+       d="m 317,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1698"
+       d="m 373,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1700"
+       d="m 429,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1702"
+       d="m 485,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1704"
+       d="m 541,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1706"
+       d="m 597,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1708"
+       d="m 653,1108.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1710"
+       d="m 25.000006,1164.6454 h 40 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -40 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1712"
+       d="m 153,1164.6454 h 36 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -36 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       id="path1714"
+       d="m 215,1164.6454 h 36 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -36 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       id="path1716"
+       d="m 318.41626,1164.6454 h 196.36038 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 H 318.41626 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 781.67692,996.64544 h 30 c 5.54,0 10,4.45996 10,9.99996 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-9.99996 10,-9.99996 z"
+       id="path1776"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 709.77764,1108.6454 h 101.2661 c 5.54,0 10,4.46 10,10 v 30.0002 c 0,5.5398 -4.46,10 -10,10 h -101.2661 c -5.54,0 -10,-4.4602 -10,-10 v -30.0002 c 0,-5.54 4.46,-10 10,-10 z"
+       id="path1780" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 541,1164.6454 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       id="path2373" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 93.000006,1108.6454 h 30.000004 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 H 93.000006 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       id="path2375" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 771.0946,1164.6454 h 40 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -40 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       id="path2815" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 863.57954,996.2069 h 30 c 5.54,0 10,4.46 10,10 v 30 c 0,5.54 -4.46,10 -10,10 h -30 c -5.54,0 -10,-4.46 -10,-10 v -30 c 0,-5.54 4.46,-10 10,-10 z"
+       id="path2964" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="text"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:-2px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="751.0423"
+       y="99.181664"
+       id="text2016"><tspan
+         sodipodi:role="line"
+         x="751.0423"
+         y="99.181664"
+         id="tspan2014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:1">BS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:-2px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       x="206.00391"
+       y="324.29688"
+       id="text2236"><tspan
+         sodipodi:role="line"
+         x="206.00391"
+         y="324.29688"
+         id="tspan2234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:0.999998">LShitf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="16.360119"
+       y="269.33575"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         x="16.360119"
+         y="269.33575"
+         id="tspan2238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:1">Shift</tspan></text>
+    <text
+       id="text2244"
+       y="211.77582"
+       x="14.151148"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0.9;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:-2px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan3009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:-2px;stroke-width:1"
+         y="211.77582"
+         x="14.151148"
+         sodipodi:role="line">Backspace</tspan></text>
+    <text
+       id="text2250"
+       y="155.81439"
+       x="37.393112"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:1"
+         id="tspan2248"
+         y="155.81439"
+         x="37.393112"
+         sodipodi:role="line">TAB</tspan></text>
+    <text
+       id="text2290"
+       y="269.33575"
+       x="729.04785"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:1"
+         id="tspan2288"
+         y="269.33575"
+         x="729.04785"
+         sodipodi:role="line">Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="746.32574"
+       y="211.82153"
+       id="text2294"><tspan
+         sodipodi:role="line"
+         x="746.32574"
+         y="211.82153"
+         id="tspan2292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:1">Enter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:-2px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       x="533.79401"
+       y="324.29688"
+       id="text2498"><tspan
+         sodipodi:role="line"
+         x="533.79401"
+         y="324.29688"
+         id="tspan2496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:0.999998">AltGr</tspan></text>
+    <text
+       id="text3003"
+       y="322.42087"
+       x="317.52512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;line-height:1.05;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       xml:space="preserve"><tspan
+         id="tspan3013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:0.999998"
+         y="322.42087"
+         x="317.52512"
+         sodipodi:role="line">Space</tspan></text>
+    <text
+       id="text2381"
+       y="324.29688"
+       x="26.861492"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:0.999998"
+         id="tspan2379"
+         y="324.29688"
+         x="26.861492"
+         sodipodi:role="line">Ctrl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;line-height:1.25;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       x="773.30585"
+       y="324.29688"
+       id="text2819"><tspan
+         sodipodi:role="line"
+         x="773.30585"
+         y="324.29688"
+         id="tspan2817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8667px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo';stroke-width:0.999998">Ctrl</tspan></text>
+  </g>
+  <g
+     style="display:inline;opacity:1"
+     inkscape:label="TH kai 3 copy copy copy"
+     id="g4330"
+     inkscape:groupmode="layer">
+    <text
+       id="text3952"
+       y="87.841438"
+       x="23.360565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3948"
+         y="87.841438"
+         x="23.360565"
+         sodipodi:role="line">^</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="23.360565"
+         sodipodi:role="line"
+         id="tspan3950">฿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="635.96002"
+       y="87.841438"
+       id="text3958"><tspan
+         id="tspan3954"
+         sodipodi:role="line"
+         x="635.96002"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">=</tspan><tspan
+         sodipodi:role="line"
+         x="635.96002"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3956">-</tspan></text>
+    <text
+       id="text3964"
+       y="87.841438"
+       x="135.3391"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3960"
+         y="87.841438"
+         x="135.3391"
+         sodipodi:role="line">&quot;</tspan><tspan
+         id="tspan3962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="135.3391"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="191.32834"
+       y="87.841438"
+       id="text3970"><tspan
+         id="tspan3966"
+         sodipodi:role="line"
+         x="191.32834"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">/</tspan><tspan
+         sodipodi:role="line"
+         x="191.32834"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3968">3</tspan></text>
+    <text
+       id="text3976"
+       y="87.841438"
+       x="247.31764"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan3972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="87.841438"
+         x="247.31764"
+         sodipodi:role="line">,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="247.31764"
+         sodipodi:role="line"
+         id="tspan3974">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="303.30688"
+       y="87.841438"
+       id="text3982"><tspan
+         id="tspan3978"
+         sodipodi:role="line"
+         x="303.30688"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">%</tspan><tspan
+         sodipodi:role="line"
+         x="303.30688"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3980">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="415.28546"
+       y="87.841438"
+       id="text3988"><tspan
+         id="tspan3984"
+         sodipodi:role="line"
+         x="415.28546"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">.</tspan><tspan
+         sodipodi:role="line"
+         x="415.28546"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3986">7</tspan></text>
+    <text
+       id="text3994"
+       y="87.841438"
+       x="471.27472"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="87.841438"
+         x="471.27472"
+         sodipodi:role="line"
+         id="tspan3990">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="471.27472"
+         sodipodi:role="line"
+         id="tspan3992">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="527.26398"
+       y="87.841438"
+       id="text4000"><tspan
+         id="tspan3996"
+         sodipodi:role="line"
+         x="527.26398"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">)</tspan><tspan
+         sodipodi:role="line"
+         x="527.26398"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan3998">9</tspan></text>
+    <text
+       id="text4006"
+       y="87.841438"
+       x="583.25323"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="87.841438"
+         x="583.25323"
+         sodipodi:role="line">_</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="583.25323"
+         sodipodi:role="line"
+         id="tspan4004">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="79.144035"
+       y="87.841438"
+       id="text4012"><tspan
+         id="tspan4008"
+         sodipodi:role="line"
+         x="79.144035"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">!</tspan><tspan
+         sodipodi:role="line"
+         x="79.144035"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4010">1</tspan></text>
+    <text
+       id="text4018"
+       y="255.08711"
+       x="595.85223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="255.08711"
+         x="595.85223"
+         sodipodi:role="line">ฉ</tspan><tspan
+         id="tspan4016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="280.0871"
+         x="595.85223"
+         sodipodi:role="line">จ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="358.52304"
+       y="87.841438"
+       id="text4024"><tspan
+         sodipodi:role="line"
+         x="358.52304"
+         y="87.841438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4020">?</tspan><tspan
+         id="tspan4022"
+         sodipodi:role="line"
+         x="358.52304"
+         y="112.84144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="247.44525"
+       y="-22.097847"
+       id="text4028"><tspan
+         sodipodi:role="line"
+         id="tspan4026"
+         x="247.44525"
+         y="-22.097847" /></text>
+    <text
+       id="text4032"
+       y="5.0379305"
+       x="228.11707"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="5.0379305"
+         x="228.11707"
+         id="tspan4030"
+         sodipodi:role="line" /></text>
+    <text
+       id="text4036"
+       y="17.392618"
+       x="272.38004"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44882px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px"
+       xml:space="preserve"><tspan
+         y="17.392618"
+         x="272.38004"
+         id="tspan4034"
+         sodipodi:role="line" /></text>
+    <text
+       id="text4040"
+       y="1.8869164"
+       x="161.39478"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.77953px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px"
+       xml:space="preserve"><tspan
+         y="1.8869164"
+         x="161.39478"
+         id="tspan4038"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="101.3884"
+       y="86.820511"
+       id="text4044"><tspan
+         id="tspan4042"
+         sodipodi:role="line"
+         x="101.3884"
+         y="86.820511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">๑</tspan></text>
+    <text
+       id="text4048"
+       y="86.820511"
+       x="603.8844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="86.820511"
+         x="603.8844"
+         sodipodi:role="line"
+         id="tspan4046">๐</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="213.05418"
+       y="86.820511"
+       id="text4052"><tspan
+         id="tspan4050"
+         sodipodi:role="line"
+         x="213.05418"
+         y="86.820511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">๓</tspan></text>
+    <text
+       id="text4056"
+       y="86.820511"
+       x="268.88708"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="86.820511"
+         x="268.88708"
+         sodipodi:role="line"
+         id="tspan4054">๔</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="324.72"
+       y="86.820511"
+       id="text4060"><tspan
+         id="tspan4058"
+         sodipodi:role="line"
+         x="324.72"
+         y="86.820511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">๕</tspan></text>
+    <text
+       id="text4064"
+       y="86.820511"
+       x="380.55289"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="86.820511"
+         x="380.55289"
+         sodipodi:role="line"
+         id="tspan4062">๖</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="436.38577"
+       y="86.820511"
+       id="text4068"><tspan
+         id="tspan4066"
+         sodipodi:role="line"
+         x="436.38577"
+         y="86.820511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">๗</tspan></text>
+    <text
+       id="text4072"
+       y="86.820511"
+       x="492.21866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="86.820511"
+         x="492.21866"
+         sodipodi:role="line"
+         id="tspan4070">๘</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="548.05151"
+       y="86.820511"
+       id="text4076"><tspan
+         id="tspan4074"
+         sodipodi:role="line"
+         x="548.05151"
+         y="86.820511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">๙</tspan></text>
+    <text
+       id="text4080"
+       y="86.820511"
+       x="157.2213"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.6535px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="86.820511"
+         x="157.2213"
+         sodipodi:role="line"
+         id="tspan4078">๒</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="861.02228"
+       y="143.34218"
+       id="text4086"><tspan
+         sodipodi:role="line"
+         x="861.02228"
+         y="143.34218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan4082">2 3 </tspan><tspan
+         sodipodi:role="line"
+         x="861.02228"
+         y="168.34218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan4084">1</tspan></text>
+    <text
+       id="text4090"
+       y="113.31679"
+       x="882.68579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       xml:space="preserve"><tspan
+         id="tspan4088"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1.80472"
+         y="113.31679"
+         x="882.68579"
+         sodipodi:role="line">AltGr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       x="841.6347"
+       y="113.31679"
+       id="text4094"><tspan
+         sodipodi:role="line"
+         x="841.6347"
+         y="113.31679"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1.80472"
+         id="tspan4092">Shift</tspan></text>
+    <path
+       inkscape:path-effect="#path-effect4332"
+       inkscape:original-d="M 865.57954,127.0971 V 115.67941"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4264-3)"
+       d="m 865.57954,127.0971 c 0,-3.8059 0,-7.61179 0,-11.41769"
+       id="path4096" />
+    <path
+       inkscape:path-effect="#path-effect4334"
+       inkscape:original-d="M 891.19216,127.15292 V 115.73524"
+       id="path4098"
+       d="m 891.19216,127.15292 c 0,-3.80589 0,-7.61179 0,-11.41768"
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4332-7)" />
+    <text
+       id="text4102"
+       y="322.09598"
+       x="586.57599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+       xml:space="preserve"><tspan
+         id="tspan4100"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.082px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';fill:#000000;stroke-width:1.80472"
+         y="322.09598"
+         x="586.57599"
+         sodipodi:role="line">★ ISO Level3 Latch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="119.06348"
+       y="198.95007"
+       id="text4108"><tspan
+         sodipodi:role="line"
+         x="119.06348"
+         y="198.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4104">ภ</tspan><tspan
+         id="tspan4106"
+         sodipodi:role="line"
+         x="119.06348"
+         y="223.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ก</tspan></text>
+    <text
+       id="text4114"
+       y="198.95007"
+       x="178.10355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4110"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="178.10355"
+         sodipodi:role="line">ซ</tspan><tspan
+         id="tspan4112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="223.95007"
+         x="178.10355"
+         sodipodi:role="line">ห</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="231.9933"
+       y="198.95007"
+       id="text4120"><tspan
+         sodipodi:role="line"
+         x="231.9933"
+         y="198.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4116">ษ</tspan><tspan
+         id="tspan4118"
+         sodipodi:role="line"
+         x="231.9933"
+         y="223.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ร</tspan></text>
+    <text
+       id="text4126"
+       y="198.95007"
+       x="287.50357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="287.50357"
+         sodipodi:role="line">ถ</tspan><tspan
+         id="tspan4124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="223.95007"
+         x="287.50357"
+         sodipodi:role="line">น</tspan></text>
+    <text
+       id="text4132"
+       y="198.95007"
+       x="457.74738"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="457.74738"
+         sodipodi:role="line">ผ ๅ</tspan><tspan
+         id="tspan4130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="223.95007"
+         x="457.74738"
+         sodipodi:role="line">า</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="516.78741"
+       y="198.95007"
+       id="text4138"><tspan
+         sodipodi:role="line"
+         x="516.78741"
+         y="198.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4134">ช</tspan><tspan
+         id="tspan4136"
+         sodipodi:role="line"
+         x="516.78741"
+         y="223.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ย</tspan></text>
+    <text
+       id="text4144"
+       y="198.95007"
+       x="570.67719"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="570.67719"
+         sodipodi:role="line">โ</tspan><tspan
+         id="tspan4142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="223.95007"
+         x="570.67719"
+         sodipodi:role="line">อ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="626.18744"
+       y="198.95007"
+       id="text4150"><tspan
+         sodipodi:role="line"
+         x="626.18744"
+         y="198.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4146">ำ</tspan><tspan
+         id="tspan4148"
+         sodipodi:role="line"
+         x="626.18744"
+         y="223.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ว</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="481.46497"
+       y="254.88966"
+       id="text4156"><tspan
+         sodipodi:role="line"
+         x="481.46497"
+         y="254.88966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4152">ธ ? </tspan><tspan
+         id="tspan4154"
+         sodipodi:role="line"
+         x="481.46497"
+         y="279.88965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">เ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="161.7104"
+       y="141.46928"
+       id="text4162"><tspan
+         id="tspan4158"
+         sodipodi:role="line"
+         x="161.7104"
+         y="141.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฮ ๏</tspan><tspan
+         id="tspan4160"
+         sodipodi:role="line"
+         x="161.7104"
+         y="166.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ป</tspan></text>
+    <text
+       id="text4168"
+       y="141.46928"
+       x="215.60016"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="141.46928"
+         x="215.60016"
+         sodipodi:role="line">ฒ ๛</tspan><tspan
+         id="tspan4166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="166.46928"
+         x="215.60016"
+         sodipodi:role="line">ล</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="275.78271"
+       y="141.46928"
+       id="text4174"><tspan
+         id="tspan4170"
+         sodipodi:role="line"
+         x="275.78271"
+         y="141.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ญ</tspan><tspan
+         id="tspan4172"
+         sodipodi:role="line"
+         x="275.78271"
+         y="166.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ง</tspan></text>
+    <text
+       id="text4180"
+       y="254.88966"
+       x="316.08588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="254.88966"
+         x="316.08588"
+         sodipodi:role="line">ณ</tspan><tspan
+         id="tspan4178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="279.88965"
+         x="316.08588"
+         sodipodi:role="line">ม</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="259.15799"
+       y="254.88966"
+       id="text4186"><tspan
+         id="tspan4182"
+         sodipodi:role="line"
+         x="259.15799"
+         y="254.88966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฐ</tspan><tspan
+         id="tspan4184"
+         sodipodi:role="line"
+         x="259.15799"
+         y="279.88965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ส</tspan></text>
+    <text
+       id="text4192"
+       y="151.59181"
+       x="497.3269"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="151.59181"
+         x="497.3269"
+         sodipodi:role="line"> ็</tspan><tspan
+         id="tspan4190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="176.59181"
+         x="497.3269"
+         sodipodi:role="line"> ้</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="555.07855"
+       y="147.84181"
+       id="text4198"><tspan
+         sodipodi:role="line"
+         x="555.07855"
+         y="147.84181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4194"> ื</tspan><tspan
+         id="tspan4196"
+         sodipodi:role="line"
+         x="555.07855"
+         y="172.84181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"> ี</tspan></text>
+    <text
+       id="text4204"
+       y="141.46928"
+       x="106.99267"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="141.46928"
+         x="106.99267"
+         sodipodi:role="line"
+         id="tspan4200">ฝ ฃ</tspan><tspan
+         id="tspan4202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="166.46928"
+         x="106.99267"
+         sodipodi:role="line">ข</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="344.46677"
+       y="198.95007"
+       id="text4210"><tspan
+         sodipodi:role="line"
+         x="344.46677"
+         y="198.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4206">ศ ฅ</tspan><tspan
+         id="tspan4208"
+         sodipodi:role="line"
+         x="344.46677"
+         y="223.95007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ค</tspan></text>
+    <text
+       id="text4216"
+       y="254.88966"
+       x="143.66199"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="254.88966"
+         x="143.66199"
+         sodipodi:role="line">ฆ</tspan><tspan
+         id="tspan4214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="279.88965"
+         x="143.66199"
+         sodipodi:role="line">ท</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="202.84978"
+       y="254.88966"
+       id="text4222"><tspan
+         id="tspan4218"
+         sodipodi:role="line"
+         x="202.84978"
+         y="254.88966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฏ</tspan><tspan
+         id="tspan4220"
+         sodipodi:role="line"
+         x="202.84978"
+         y="279.88965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">บ</tspan></text>
+    <text
+       id="text4228"
+       y="197.64268"
+       x="681.66748"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="197.64268"
+         x="681.66748"
+         sodipodi:role="line"> ุ</tspan><tspan
+         id="tspan4226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="222.64268"
+         x="681.66748"
+         sodipodi:role="line"> ู</tspan></text>
+    <text
+       id="text4234"
+       y="254.88966"
+       x="541.19543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="254.88966"
+         x="541.19543"
+         sodipodi:role="line"
+         id="tspan4230">ฎ</tspan><tspan
+         id="tspan4232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="279.88965"
+         x="541.19543"
+         sodipodi:role="line">ะ</tspan></text>
+    <text
+       id="text4240"
+       y="141.46928"
+       x="331.52615"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="141.46928"
+         x="331.52615"
+         sodipodi:role="line"
+         id="tspan4236">ฤ ฦ</tspan><tspan
+         id="tspan4238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="166.46928"
+         x="331.52615"
+         sodipodi:role="line">ด</tspan></text>
+    <text
+       id="text4246"
+       y="147.84181"
+       x="443.13589"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="147.84181"
+         x="443.13589"
+         sodipodi:role="line"
+         id="tspan4242"> ึ</tspan><tspan
+         id="tspan4244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="172.84181"
+         x="443.13589"
+         sodipodi:role="line"> ิ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="387.46805"
+       y="141.46928"
+       id="text4252"><tspan
+         id="tspan4248"
+         sodipodi:role="line"
+         x="387.46805"
+         y="141.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฟ</tspan><tspan
+         id="tspan4250"
+         sodipodi:role="line"
+         x="387.46805"
+         y="166.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">พ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="426.12671"
+       y="262.57245"
+       id="text4258"><tspan
+         sodipodi:role="line"
+         x="426.12671"
+         y="262.57245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4254"> ๋</tspan><tspan
+         id="tspan4256"
+         sodipodi:role="line"
+         x="426.12671"
+         y="287.57245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"> ่</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="370.08472"
+       y="254.88966"
+       id="text4264"><tspan
+         sodipodi:role="line"
+         x="370.08472"
+         y="254.88966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4260">ฑ</tspan><tspan
+         id="tspan4262"
+         sodipodi:role="line"
+         x="370.08472"
+         y="279.88965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ต</tspan></text>
+    <text
+       id="text4268"
+       y="289.82245"
+       x="653.68787"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="289.82245"
+         x="653.68787"
+         sodipodi:role="line"
+         id="tspan4266"> ๊</tspan></text>
+    <text
+       id="text4274"
+       y="141.38139"
+       x="611.68011"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="141.38139"
+         x="611.68011"
+         id="tspan4270">ใ</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4272"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="166.38139"
+         x="611.68011">ไ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="398.70697"
+       y="208.45007"
+       id="text4280"><tspan
+         sodipodi:role="line"
+         x="398.70697"
+         y="208.45007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4276"> ์  ๎</tspan><tspan
+         id="tspan4278"
+         sodipodi:role="line"
+         x="398.70697"
+         y="233.45007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"> ั</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="665.99084"
+       y="141.38139"
+       id="text4290"><tspan
+         sodipodi:role="line"
+         x="665.99084"
+         y="141.38139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4286">ฯ ๚</tspan><tspan
+         id="tspan4288"
+         sodipodi:role="line"
+         x="665.99084"
+         y="166.38139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">แ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="652.63007"
+       y="255.08711"
+       id="text4294"><tspan
+         id="tspan4292"
+         sodipodi:role="line"
+         x="652.63007"
+         y="255.08711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฬ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="723.7691"
+       y="142.92024"
+       id="text4300"><tspan
+         id="tspan4296"
+         sodipodi:role="line"
+         x="723.7691"
+         y="142.92024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฌ</tspan><tspan
+         sodipodi:role="line"
+         x="723.7691"
+         y="167.92024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         id="tspan4298">ๆ</tspan></text>
+    <text
+       id="text4308"
+       y="198.95007"
+       x="645.73657"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="645.73657"
+         sodipodi:role="line"
+         id="tspan4306"> ํ</tspan></text>
+    <text
+       id="text4312"
+       y="256.0188"
+       x="447.71664"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="256.0188"
+         x="447.71664"
+         sodipodi:role="line"
+         id="tspan4310"> ฺ</tspan></text>
+    <text
+       id="text4316"
+       y="22.622725"
+       x="25.949877"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="22.622725"
+         x="25.949877"
+         id="tspan4314"
+         sodipodi:role="line" /></text>
+    <g
+       transform="scale(2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+       id="text4322"
+       aria-label="IKBAEP-th -  I'm eating Khanom Bualoi in Administration room, Pewpew. license : public domain">
+      <path
+         id="path288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 11.403238,10.101302 h 1.39 c 0.19,0 0.28,-0.07 0.28,-0.2099996 0,-0.13 -0.09,-0.2 -0.28,-0.2 H 9.6032375 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 1.3900005 v 4.81 H 9.6032375 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 3.1900005 c 0.18,0 0.28,-0.07 0.28,-0.21 0,-0.13 -0.09,-0.2 -0.28,-0.2 h -1.39 z" />
+      <path
+         id="path290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 15.849331,13.111302 0.81,-0.73 c 0.95,0.31 1.39,0.91 2.12,2.94 h 0.87 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -0.56 c -0.75,-1.92 -1.12,-2.43 -2.09,-2.83 l 2.22,-1.98 h 0.16 c 0.19,0 0.28,-0.07 0.28,-0.2099996 0,-0.13 -0.09,-0.2 -0.28,-0.2 h -1.18 c -0.19,0 -0.28,0.07 -0.28,0.2 0,0.1399996 0.09,0.2099996 0.28,0.2099996 h 0.45 l -2.8,2.49 v -2.49 h 0.75 c 0.18,0 0.27,-0.07 0.27,-0.2099996 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -1.7 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 0.54 v 4.81 h -0.54 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 1.7 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -0.75 z" />
+      <path
+         id="path292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 21.435425,14.911302 h -0.54 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 3.06 c 0.91,0 1.65,-0.69 1.65,-1.53 0,-0.67 -0.43,-1.15 -1.27,-1.45 0.59,-0.32 0.85,-0.69 0.85,-1.2 0,-0.82 -0.74,-1.4499996 -1.71,-1.4499996 h -2.58 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 0.54 z m 0.41,-2.72 v -2.09 h 1.64 c 0.73,0 1.29,0.45 1.29,1.03 0,0.62 -0.61,1.06 -1.46,1.06 z m 0,2.72 v -2.31 h 1.49 c 1.54,0 1.86,0.78 1.86,1.19 0,0.62 -0.56,1.12 -1.27,1.12 z" />
+      <path
+         id="path294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 30.471519,13.441302 0.56,1.47 h -0.76 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 1.56 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -0.37 l -1.97,-5.2199996 h -2.04 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 1.2 l -1.79,4.81 h -0.31 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 1.51 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -0.79 l 0.54,-1.47 z m -0.15,-0.41 h -2.35 l 1.08,-2.93 h 0.15 z" />
+      <path
+         id="path296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 33.837613,12.601302 h 1.45 v 0.45 c 0,0.18 0.07,0.27 0.21,0.27 0.13,0 0.2,-0.09 0.2,-0.27 v -1.31 c 0,-0.18 -0.07,-0.27 -0.2,-0.27 -0.14,0 -0.21,0.09 -0.21,0.27 v 0.45 h -1.45 v -2.09 h 2.93 v 0.98 c 0,0.18 0.07,0.27 0.2,0.27 0.14,0 0.21,-0.09 0.21,-0.27 V 9.6913024 h -4.29 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 0.54 v 4.81 h -0.54 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 4.5 v -1.6 c 0,-0.18 -0.07,-0.27 -0.2,-0.27 -0.14,0 -0.21,0.09 -0.21,0.27 v 1.19 h -3.14 z" />
+      <path
+         id="path300"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 49.1898,12.741302 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 h -4.02 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 z" />
+      <path
+         id="path302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="M 52.035894,11.151302 V 9.9613024 c 0,-0.19 -0.06,-0.27 -0.2,-0.27 -0.14,0 -0.21,0.09 -0.21,0.27 v 1.1899996 h -0.74 c -0.19,0 -0.28,0.07 -0.28,0.2 0,0.14 0.09,0.21 0.28,0.21 h 0.74 v 2.69 c 0,0.75 0.61,1.23 1.55,1.23 0.85,0 1.99,-0.38 1.99,-0.67 0,-0.1 -0.09,-0.2 -0.19,-0.2 -0.05,0 -0.08,0.01 -0.16,0.06 -0.39,0.23 -1.1,0.4 -1.66,0.4 -0.69,0 -1.12,-0.33 -1.12,-0.84 v -2.67 h 2.2 c 0.18,0 0.27,-0.07 0.27,-0.21 0,-0.13 -0.09,-0.2 -0.27,-0.2 z" />
+      <path
+         id="path304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 57.821988,9.2813024 h -0.95 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 0.54 v 5.2199996 h -0.46 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.1,0.21 0.27,0.21 h 1.32 c 0.18,0 0.28,-0.07 0.28,-0.21 0,-0.13 -0.09,-0.2 -0.28,-0.2 h -0.45 v -2.55 c 0.64,-0.75 0.89,-0.94 1.49,-0.94 0.99,0 1.23,0.66 1.23,1.02 v 2.47 h -0.45 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 1.31 c 0.19,0 0.28,-0.07 0.28,-0.21 0,-0.13 -0.09,-0.2 -0.28,-0.2 h -0.45 v -2.5 c 0,-0.81 -0.66,-1.4 -1.59,-1.4 -0.61,0 -1.03,0.23 -1.54,0.84 z" />
+      <path
+         id="path406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="M 10.01741,18.973822 H 9.1216625 c -0.1020472,0 -0.1530708,0.03969 -0.1530708,0.113386 0,0.07937 0.051024,0.119055 0.1530708,0.119055 h 0.663307 v 2.959369 H 8.8778831 c -0.1020473,0 -0.1530709,0.03969 -0.1530709,0.113386 0,0.07937 0.051024,0.119055 0.1530709,0.119055 h 2.0466139 c 0.102047,0 0.15874,-0.03968 0.15874,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15874,-0.113386 H 10.01741 Z" />
+      <path
+         id="path408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 13.41677,20.033979 h -0.901417 c -0.102048,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.668976 v 1.899212 h -0.907086 c -0.102048,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 2.046613 c 0.102047,0 0.15874,-0.03968 0.15874,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15874,-0.113386 H 13.41677 Z m -0.01134,-1.173543 h -0.334488 v 0.589606 h 0.334488 z" />
+      <path
+         id="path410"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 18.035027,21.899176 c 0,-0.05669 -0.05102,-0.107717 -0.107717,-0.107717 -0.03968,0 -0.05669,0.01134 -0.102047,0.05669 -0.294803,0.272126 -0.646299,0.408189 -1.060157,0.408189 -0.617953,0 -1.054488,-0.425197 -1.054488,-1.020472 0,-0.623622 0.430866,-1.048819 1.054488,-1.048819 0.47622,0 0.87874,0.23811 0.901417,0.538583 0.01134,0.09638 0.04535,0.136063 0.119055,0.136063 0.0737,0 0.113386,-0.05102 0.113386,-0.153071 v -0.515906 c 0,-0.107716 -0.03968,-0.15874 -0.113386,-0.15874 -0.07937,0 -0.119055,0.05102 -0.119055,0.15874 v 0.0737 c -0.232441,-0.204094 -0.538583,-0.311811 -0.884409,-0.311811 -0.759685,0 -1.303937,0.538583 -1.303937,1.286929 0,0.725669 0.532913,1.247244 1.27559,1.247244 0.697323,0 1.28126,-0.413858 1.28126,-0.589606 z" />
+      <path
+         id="path412"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 21.349347,21.269884 c 0,-0.822047 -0.572599,-1.315275 -1.298268,-1.315275 -0.725669,0 -1.292598,0.527244 -1.292598,1.213228 0,0.737008 0.606614,1.320945 1.371968,1.320945 0.515906,0 1.19622,-0.266457 1.19622,-0.464882 0,-0.06236 -0.05102,-0.113386 -0.107716,-0.113386 -0.02835,0 -0.05102,0.01134 -0.09071,0.03969 -0.226771,0.181418 -0.64063,0.306142 -0.992126,0.306142 -0.612283,0 -1.065826,-0.391181 -1.145196,-0.986457 z m -2.358425,-0.23244 c 0.102047,-0.521575 0.510236,-0.850394 1.060157,-0.850394 0.549921,0 0.969449,0.334488 1.060157,0.850394 z" />
+      <path
+         id="path414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 23.609179,20.18705 c 0.538582,0 0.680315,0.391181 0.680315,0.578268 v 1.400314 h -0.192756 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.617952 c 0.102048,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192755 v -1.439999 c 0,-0.436536 -0.385512,-0.771024 -0.890079,-0.771024 -0.351496,0 -0.55559,0.107717 -0.884409,0.470551 V 20.033979 H 22.32225 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.192756 v 1.899212 h -0.255118 c -0.107717,0 -0.15874,0.03969 -0.15874,0.113386 0,0.07937 0.05102,0.119055 0.15874,0.119055 h 0.742677 c 0.102047,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.255118 v -1.43433 c 0.243779,-0.311811 0.436535,-0.544252 0.861732,-0.544252 z" />
+      <path
+         id="path416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 27.649168,20.215397 c -0.198425,-0.175748 -0.453543,-0.260788 -0.776692,-0.260788 -0.555591,0 -0.969449,0.272126 -0.969449,0.64063 0,0.493228 0.544252,0.583937 0.975118,0.629291 0.345827,0.03968 0.884409,0.136063 0.884409,0.510236 0,0.300473 -0.374173,0.521575 -0.87307,0.521575 -0.48189,0 -0.873071,-0.209764 -0.873071,-0.470551 v -0.03968 c 0,-0.0737 -0.04535,-0.124725 -0.113386,-0.124725 -0.07937,0 -0.119055,0.05102 -0.119055,0.153071 v 0.470551 c 0,0.102048 0.03969,0.153071 0.119055,0.153071 0.0737,0 0.113386,-0.05102 0.113386,-0.153071 v -0.06236 c 0.23811,0.209764 0.521575,0.306142 0.890078,0.306142 0.64063,0 1.111181,-0.31748 1.111181,-0.748346 0,-0.578268 -0.657637,-0.691654 -1.11685,-0.737008 -0.300472,-0.02835 -0.742677,-0.102047 -0.742677,-0.391181 0,-0.24378 0.31748,-0.425197 0.737008,-0.425197 0.430866,0 0.725669,0.164409 0.754015,0.419528 0.01134,0.09071 0.05102,0.130393 0.119055,0.130393 0.0737,0 0.113386,-0.05102 0.113386,-0.153071 v -0.391181 c 0,-0.107716 -0.03969,-0.15874 -0.113386,-0.15874 -0.0737,0 -0.119055,0.06236 -0.119055,0.15874 z" />
+      <path
+         id="path418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 31.547425,21.269884 c 0,-0.822047 -0.572599,-1.315275 -1.298268,-1.315275 -0.725669,0 -1.292598,0.527244 -1.292598,1.213228 0,0.737008 0.606614,1.320945 1.371968,1.320945 0.515906,0 1.196221,-0.266457 1.196221,-0.464882 0,-0.06236 -0.05102,-0.113386 -0.107717,-0.113386 -0.02835,0 -0.05102,0.01134 -0.09071,0.03969 -0.226771,0.181418 -0.640629,0.306142 -0.992125,0.306142 -0.612284,0 -1.065827,-0.391181 -1.145197,-0.986457 z M 29.189,21.037444 c 0.102047,-0.521575 0.510236,-0.850394 1.060157,-0.850394 0.549921,0 0.969449,0.334488 1.060157,0.850394 z" />
+      <path
+         id="path420"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 37.070554,21.740436 c -0.221102,0 -0.391181,0.15874 -0.391181,0.368503 0,0.209764 0.170079,0.374174 0.391181,0.374174 h 0.05669 c 0.221102,0 0.391181,-0.158741 0.391181,-0.374174 0,-0.209763 -0.170079,-0.368503 -0.391181,-0.368503 z m 0,-1.706457 c -0.221102,0 -0.391181,0.16441 -0.391181,0.374173 0,0.209764 0.170079,0.374174 0.391181,0.374174 h 0.05669 c 0.221102,0 0.391181,-0.16441 0.391181,-0.374174 0,-0.209763 -0.170079,-0.374173 -0.391181,-0.374173 z" />
+      <path
+         id="path422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 44.022344,20.18705 c 0.566929,0 1.009134,0.459213 1.009134,1.048819 0,0.55559 -0.459213,1.020472 -1.009134,1.020472 -0.56126,0 -1.009134,-0.464882 -1.009134,-1.03748 0,-0.572598 0.447874,-1.031811 1.009134,-1.031811 z m -1.009134,1.712126 c 0.266457,0.391181 0.606614,0.589606 1.020473,0.589606 0.680314,0 1.230236,-0.572598 1.230236,-1.28126 0,-0.702992 -0.538583,-1.252913 -1.230236,-1.252913 -0.419528,0 -0.737008,0.175748 -1.020473,0.583937 v -0.504567 h -0.538582 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.306142 v 2.9537 h -0.306142 c -0.102047,0 -0.153071,0.03968 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 1.094173 c 0.102047,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 H 43.01321 Z" />
+      <path
+         id="path424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 48.085012,22.398073 h 0.425196 c 0.102048,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192755 v -2.131653 h -0.651969 c -0.107716,0 -0.15874,0.03969 -0.15874,0.113386 0,0.07937 0.05102,0.119055 0.15874,0.119055 h 0.419528 v 1.479685 c -0.311811,0.340157 -0.657638,0.510236 -1.03748,0.510236 -0.289134,0 -0.515906,-0.226772 -0.515906,-0.510236 v -1.712126 h -0.538582 c -0.102048,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.306141 v 1.479685 c 0,0.447874 0.300473,0.742677 0.754016,0.742677 0.374173,0 0.72,-0.15874 1.031811,-0.464882 z" />
+      <path
+         id="path426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 49.811928,18.973822 h -0.538583 c -0.102047,0 -0.15307,0.03969 -0.15307,0.113386 0,0.07937 0.05102,0.119055 0.15307,0.119055 h 0.306142 v 2.959369 h -0.306142 c -0.102047,0 -0.15307,0.03969 -0.15307,0.113386 0,0.07937 0.05102,0.119055 0.15307,0.119055 h 0.538583 v -0.498897 c 0.266457,0.39685 0.606614,0.589606 1.020472,0.589606 0.680315,0 1.230236,-0.572598 1.230236,-1.28126 0,-0.702992 -0.538582,-1.252913 -1.230236,-1.252913 -0.419527,0 -0.737008,0.181417 -1.020472,0.583937 z m 1.009134,1.213228 c 0.566929,0 1.009133,0.459213 1.009133,1.048819 0,0.55559 -0.459212,1.020472 -1.009133,1.020472 -0.56126,0 -1.009134,-0.464882 -1.009134,-1.03748 0,-0.572598 0.447874,-1.031811 1.009134,-1.031811 z" />
+      <path
+         id="path428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 54.209084,18.973822 h -0.895748 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.663307 v 2.959369 h -0.907087 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 2.046614 c 0.102047,0 0.15874,-0.03968 0.15874,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15874,-0.113386 h -0.907086 z" />
+      <path
+         id="path430"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 57.608444,20.033979 h -0.901417 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.668976 v 1.899212 h -0.907086 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 2.046614 c 0.102047,0 0.15874,-0.03968 0.15874,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15874,-0.113386 h -0.907087 z m -0.01134,-1.173543 h -0.334488 v 0.589606 h 0.334488 z" />
+      <path
+         id="path432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 62.226698,21.899176 c 0,-0.05669 -0.05102,-0.107717 -0.107716,-0.107717 -0.03969,0 -0.05669,0.01134 -0.102047,0.05669 -0.294803,0.272126 -0.646299,0.408189 -1.060157,0.408189 -0.617953,0 -1.054488,-0.425197 -1.054488,-1.020472 0,-0.623622 0.430866,-1.048819 1.054488,-1.048819 0.47622,0 0.878739,0.23811 0.901417,0.538583 0.01134,0.09638 0.04535,0.136063 0.119055,0.136063 0.0737,0 0.113386,-0.05102 0.113386,-0.153071 v -0.515906 c 0,-0.107716 -0.03969,-0.15874 -0.113386,-0.15874 -0.07937,0 -0.119055,0.05102 -0.119055,0.15874 v 0.0737 c -0.232441,-0.204094 -0.538583,-0.311811 -0.88441,-0.311811 -0.759684,0 -1.303936,0.538583 -1.303936,1.286929 0,0.725669 0.532913,1.247244 1.27559,1.247244 0.697323,0 1.281259,-0.413858 1.281259,-0.589606 z" />
+      <path
+         id="path434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 68.838333,18.973822 h -0.538582 c -0.102048,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.306141 v 1.337952 c -0.277795,-0.402519 -0.606614,-0.589606 -1.03181,-0.589606 -0.674646,0 -1.224567,0.566929 -1.224567,1.264252 0,0.697323 0.549921,1.269921 1.224567,1.269921 0.425196,0 0.765354,-0.198425 1.03181,-0.595276 v 0.504567 h 0.538583 c 0.102047,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.306142 z m -1.247244,1.213228 c 0.572599,0 1.014803,0.453543 1.014803,1.043149 0,0.566929 -0.453543,1.026142 -1.009133,1.026142 -0.566929,0 -1.014803,-0.459213 -1.014803,-1.03748 0,-0.572598 0.447874,-1.031811 1.009133,-1.031811 z" />
+      <path
+         id="path436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 71.092493,19.954609 c -0.719999,0 -1.292598,0.566929 -1.292598,1.264252 0,0.708661 0.572599,1.269921 1.292598,1.269921 0.714331,0 1.292599,-0.56126 1.292599,-1.252913 0,-0.72 -0.566929,-1.28126 -1.292599,-1.28126 z m 0,0.232441 c 0.595276,0 1.060158,0.453543 1.060158,1.048819 0,0.561259 -0.476221,1.020472 -1.060158,1.020472 -0.589606,0 -1.060157,-0.459213 -1.060157,-1.03748 0,-0.572598 0.470551,-1.031811 1.060157,-1.031811 z" />
+      <path
+         id="path438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="M 73.426028,20.033979 H 73.0065 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.192756 v 1.899212 H 73.0065 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.147402,0.119055 h 0.617952 c 0.09638,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192755 v -1.5137 c 0.215433,-0.32315 0.39685,-0.464882 0.595275,-0.464882 0.192756,0 0.368504,0.198425 0.368504,0.419528 v 1.791495 h 0.419527 c 0.102048,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192755 v -1.5137 c 0.215433,-0.328819 0.385511,-0.464882 0.589606,-0.464882 0.198425,0 0.374173,0.187087 0.374173,0.40252 v 1.808503 h 0.419527 c 0.102048,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192756 v -1.598739 c 0,-0.334489 -0.266456,-0.612284 -0.595275,-0.612284 -0.232441,0 -0.419527,0.119055 -0.64063,0.40252 -0.124724,-0.272126 -0.306141,-0.40252 -0.549921,-0.40252 -0.23811,0 -0.40252,0.102047 -0.595275,0.374173 z" />
+      <path
+         id="path440"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 77.868538,20.18705 c 0.413858,0 0.697322,0.187087 0.697322,0.464882 v 0.402519 c -0.334488,-0.09071 -0.510236,-0.119055 -0.771023,-0.119055 -0.708661,0 -1.19622,0.334488 -1.19622,0.827717 0,0.430866 0.357165,0.725669 0.884409,0.725669 0.39685,0 0.737008,-0.147402 1.082834,-0.470551 v 0.379842 h 0.538583 c 0.102047,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.306142 v -1.5137 c 0,-0.40252 -0.385512,-0.697323 -0.912755,-0.697323 -0.209764,0 -0.578268,0.0737 -0.890079,0.181417 -0.06236,0.02268 -0.09638,0.06236 -0.09638,0.119056 0,0.06236 0.05102,0.113385 0.107717,0.113385 0.06803,0 0.498897,-0.181417 0.861732,-0.181417 z m 0.697322,1.576063 c -0.379842,0.357165 -0.685984,0.493228 -1.088503,0.493228 -0.391181,0 -0.646299,-0.192756 -0.646299,-0.487559 0,-0.357165 0.408188,-0.600945 1.009133,-0.600945 0.249449,0 0.521575,0.03402 0.725669,0.08504 z" />
+      <path
+         id="path442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 81.403961,20.033979 h -0.901417 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.668976 v 1.899212 h -0.907086 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 2.046614 c 0.102047,0 0.15874,-0.03968 0.15874,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15874,-0.113386 h -0.907087 z m -0.01134,-1.173543 h -0.334488 v 0.589606 h 0.334488 z" />
+      <path
+         id="path444"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66929px;line-height:0.75;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         d="m 84.797653,20.18705 c 0.538582,0 0.680314,0.391181 0.680314,0.578268 v 1.400314 h -0.192755 c -0.102048,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.617952 c 0.102047,0 0.153071,-0.03968 0.153071,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.153071,-0.113386 h -0.192756 v -1.439999 c 0,-0.436536 -0.385511,-0.771024 -0.890078,-0.771024 -0.351496,0 -0.555591,0.107717 -0.884409,0.470551 v -0.391181 h -0.425197 c -0.102047,0 -0.153071,0.03969 -0.153071,0.113386 0,0.07937 0.05102,0.119055 0.153071,0.119055 h 0.192756 v 1.899212 h -0.255118 c -0.107717,0 -0.158741,0.03969 -0.158741,0.113386 0,0.07937 0.05102,0.119055 0.158741,0.119055 h 0.742677 c 0.102047,0 0.15307,-0.03968 0.15307,-0.119055 0,-0.0737 -0.05102,-0.113386 -0.15307,-0.113386 h -0.255118 v -1.43433 C 84.1797,20.419491 84.372456,20.18705 84.797653,20.18705 Z" />
+      <path
+         d="m 39.423706,14.911302 h -0.54 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.14 0.09,0.21 0.27,0.21 h 3.06 c 0.91,0 1.65,-0.69 1.65,-1.53 0,-0.67 -0.43,-1.15 -1.27,-1.45 0.59,-0.32 0.85,-0.69 0.85,-1.2 0,-0.82 -0.74,-1.4499996 -1.71,-1.4499996 h -2.58 c -0.18,0 -0.27,0.07 -0.27,0.2 0,0.1399996 0.09,0.2099996 0.27,0.2099996 h 0.54 z m 0.41,-2.72 v -2.09 h 1.64 c 0.73,0 1.29,0.45 1.29,1.03 0,0.62 -0.61,1.06 -1.46,1.06 z m 0,2.72 v -2.31 h 1.49 c 1.54,0 1.86,0.78 1.86,1.19 0,0.62 -0.56,1.12 -1.27,1.12 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:0.5"
+         id="path652" />
+    </g>
+    <text
+       id="text4328"
+       y="87.841438"
+       x="695.68518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4324"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="87.841438"
+         x="695.68518"
+         sodipodi:role="line">~</tspan><tspan
+         id="tspan4326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="112.84144"
+         x="695.68518"
+         sodipodi:role="line">+</tspan></text>
+  </g>
+</svg>

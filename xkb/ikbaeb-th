@@ -5,7 +5,7 @@ xkb_symbols "ikbaeb" {
     name[Group1]= "IKBAEB - Thai Stupid Layout ";
     // converted to THai keysysms - Pablo Saratxaga pablo@mandrakesoft.com
     
-    key <TLDE> { [ Thai_baht,		asciitilde		] };
+    key <TLDE> { [ Thai_baht,		asciicircum		] };
     
     key <AE01> { [ 1,	exclam,		Thai_leknung		] };
     key <AE02> { [ 2,	quotedbl,	Thai_leksong	] };
@@ -18,7 +18,7 @@ xkb_symbols "ikbaeb" {
     key <AE09> { [ 9,	parenright,	Thai_lekkao		] };
     key <AE10> { [ 0,	underscore,	Thai_leksun		] };
     key <AE11> { [ minus,			equal			] };
-    key <AE12> { [ plus,			asciicircum		] };
+    key <AE12> { [ plus,			asciitilde		] };
 
 	key <AD01> { [ Thai_khokhai,	Thai_fofa,			Thai_khokhuat	] };
     key <AD02> { [ Thai_popla,		Thai_honokhuk,		0x1000e4f		] };

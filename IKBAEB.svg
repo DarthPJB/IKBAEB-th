@@ -76,8 +76,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0076087"
-     inkscape:cx="442.77613"
-     inkscape:cy="146.93131"
+     inkscape:cx="486.38612"
+     inkscape:cy="248.80039"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -699,7 +699,7 @@
          x="595.85223"
          y="255.08711"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
-         id="tspan4014">ฉ</tspan><tspan
+         id="tspan4014">ฉ .</tspan><tspan
          sodipodi:role="line"
          x="595.85223"
          y="280.0871"
@@ -1278,7 +1278,7 @@
          sodipodi:role="line"
          x="541.19543"
          y="254.88966"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฎ</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">ฎ ,</tspan><tspan
          sodipodi:role="line"
          x="541.19543"
          y="279.88965"
@@ -1614,7 +1614,7 @@
          x="695.68518"
          y="87.841438"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
-         id="tspan4324">~</tspan><tspan
+         id="tspan4324">~ ^</tspan><tspan
          sodipodi:role="line"
          x="695.68518"
          y="112.84144"
@@ -1630,11 +1630,33 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
          y="144.98024"
          x="779.18176"
-         sodipodi:role="line">^</tspan><tspan
+         sodipodi:role="line"># $</tspan><tspan
          id="tspan352"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
          y="169.98024"
          x="779.18176"
          sodipodi:role="line">฿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="523.68878"
+       y="141.46928"
+       id="text329"><tspan
+         id="tspan327"
+         sodipodi:role="line"
+         x="523.68878"
+         y="141.46928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1">&amp;</tspan></text>
+    <text
+       id="text335"
+       y="198.95007"
+       x="704.93018"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Tlwg Typist';-inkscape-font-specification:'Tlwg Typist';stroke-width:1"
+         y="198.95007"
+         x="704.93018"
+         sodipodi:role="line"
+         id="tspan333">'</tspan></text>
   </g>
 </svg>

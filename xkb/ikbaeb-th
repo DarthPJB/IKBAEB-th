@@ -59,7 +59,7 @@ xkb_symbols "ikbaeb" {
     key <CAPS> { [ BackSpace,         Escape,             BackSpace       ] };
     key <BKSL> { [ Thai_baht,         numbersign,         dollar          ] };
     key <LSGT> { [ Shift_L,           Shift_L             ] };
-    key <LFSH> { [ Shift_L,        	  Shift_L             ] };
+    key <LFSH> { [ Shift_L,           Shift_L             ] };
     key <LALT> { [ Shift_L,           Alt_L,              Shift_L         ] };
     key <RALT> { [ ISO_Level3_Latch,  ISO_Level3_Latch    ] };
     //include "level3(ralt_switch)"

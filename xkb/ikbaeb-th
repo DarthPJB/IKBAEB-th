@@ -1,7 +1,7 @@
 // based on a keyboard map from an 'xkb/symbols/th' file
 
 default partial alphanumeric_keys
-xkb_symbols "ikbaeb" {
+xkb_symbols "ikbaeb-th" {
     name[Group1]= "IKBAEB - Thai Stupid Layout";
     // converted to THai keysysms - Pablo Saratxaga pablo@mandrakesoft.com
     

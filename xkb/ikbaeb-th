@@ -7,7 +7,7 @@ xkb_symbols "ikbaeb" {
     
     key <TLDE> { [ apostrophe,		grave		] };
     
-    key <AE01> { [ 1,	exclam,		Thai_leknung	] };
+    key <AE01> { [ 1,	exclam,		Thai_leknung		] };
     key <AE02> { [ 2,	quotedbl,	Thai_leksong	] };
     key <AE03> { [ 3,	slash,		Thai_leksam		] };
     key <AE04> { [ 4,	comma,		Thai_leksi		] };
@@ -30,7 +30,7 @@ xkb_symbols "ikbaeb" {
     key <AD08> { [ Thai_maitho,		Thai_maitaikhu,		ampersand		] };
     key <AD09> { [ Thai_saraii,		Thai_sarauee		] };
     key <AD10> { [ Thai_saraaimaimalai,		Thai_saraaimaimuan] };
-    key <AD11> { [ Thai_saraae,	Thai_paiyannoi,		0x1000e5a		] };
+    key <AD11> { [ Thai_maitri,		Thai_lochula		] };
     key <AD12> { [ Thai_maiyamok,	Thai_chochoe		] };
     
     key <AC01> { [ Thai_kokai,		Thai_phosamphao		] };
@@ -43,7 +43,7 @@ xkb_symbols "ikbaeb" {
 	key <AC08> { [ Thai_yoyak,		Thai_chochang		] };
     key <AC09> { [ Thai_oang,		Thai_sarao			] };
     key <AC10> { [ Thai_wowaen,		Thai_saraam,		Thai_nikhahit	] };
-    key <AC11> { [ Thai_sarauu,		Thai_sarau,			apostrophe      ] };
+    key <AC11> { [ Thai_sarauu,		Thai_sarau			] };
     
     key <AB01> { [ Thai_thothahan,	Thai_khorakhang		] };
     key <AB02> { [ Thai_bobaimai,	Thai_topatak		] };
@@ -51,10 +51,10 @@ xkb_symbols "ikbaeb" {
     key <AB04> { [ Thai_moma,		Thai_nonen			] };
     key <AB05> { [ Thai_totao,		Thai_thonangmontho	] };
     key <AB06> { [ Thai_maiek,		Thai_maichattawa,	Thai_phinthu	] };
-    key <AB07> { [ Thai_sarae,		Thai_thothong,		question		] };
-    key <AB08> { [ Thai_saraa,		Thai_dochada,		comma			] };
-    key <AB09> { [ Thai_chochan,	Thai_choching,		period          ] };
-    key <AB10> { [ Thai_maitri,		Thai_lochula		] };
+    key <AB07> { [ Thai_sarae,		Thai_thothong		] };
+    key <AB08> { [ Thai_saraa,		Thai_dochada		] };
+    key <AB09> { [ Thai_chochan,	Thai_choching		] };
+    key <AB10> { [ Thai_saraae,		Thai_paiyannoi,		0x1000e5a		] };
 
     key <CAPS> { [ BackSpace,		Escape,				BackSpace		] };
     key <BKSL> { [ Thai_baht,		numbersign,			dollar	] };

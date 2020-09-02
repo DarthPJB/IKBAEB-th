@@ -1,8 +1,15 @@
-# IKBAEB-th - Alternative Thai keyboard layout
+# IKBAEB-th - Thai keyboard layout
 
-Alternative Thai keyboard layout. Not Ketmanee nor Pattajoti.
+`IKBAEB-th` is an alternative Thai keyboard layout unlike [Kedmanee (เกษมณี)](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) or [Pattachote (ปัตตะโชติ)](https://en.wikipedia.org/wiki/Thai_Pattachote_keyboard_layout).
 
 ![IKBAEB-th layout](IKBAEB.svg)
 
-IKBAEB is Thai word "อีกแบบ", mean Alternative.
-But "อีกแบบ" is too ordinary, so I call "อี๊กแบ็บ".
+This layout optimized for:
+
+- x
+- y
+- z
+- Maintaining Arabic numeral row
+- etc.
+
+The name IKBAEB originates from the Thai word, อีกแบบ, meaning _alternative_. However "อีกแบบ" is too ordinary, so it will be be called "อี๊กแบ็บ".

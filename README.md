@@ -6,8 +6,7 @@
 
 This layout optimized for:
 
-- No more Thai alphabets on numeral row
-- No painful for right little finger
+- Right little finger doesn't hurt anymore
 - Finger rolling combos
 - Maintaining Arabic numeral row
 - etc.

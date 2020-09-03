@@ -6,9 +6,9 @@
 
 This layout optimized for:
 
-- x
-- y
-- z
+- No more Thai alphabets on numeral row
+- No painful for right little finger
+- Finger rolling combos
 - Maintaining Arabic numeral row
 - etc.
 

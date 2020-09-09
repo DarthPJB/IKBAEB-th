@@ -43,7 +43,7 @@ xkb_symbols "ikbaeb-th" {
     key <AC08> { [ Thai_yoyak,        Thai_chochang       ] };
     key <AC09> { [ Thai_oang,         Thai_sarao          ] };
     key <AC10> { [ Thai_wowaen,       Thai_saraam,        Thai_nikhahit   ] };
-    key <AC11> { [ Thai_phophan,      Thai_fofan          ] };
+    key <AC11> { [ Thai_phophan,      Thai_fofan,         colon           ] };
     
     key <AB01> { [ Thai_thothahan,    Thai_khorakhang     ] };
     key <AB02> { [ Thai_bobaimai,     Thai_topatak        ] };

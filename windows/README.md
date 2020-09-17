@@ -1,4 +1,4 @@
-keyboard layout for Windows.
+# keyboard layout for Windows.
 
 3 methods:
 
@@ -8,4 +8,4 @@ keyboard layout for Windows.
 
 # suggest 
 Mapped `left-alt` to `shift` using something like [SharpKeys](https://github.com/randyrants/sharpkeys).
-OR SandS (Space and Shift) via [Autohotkey](https://www.autohotkey.com/boards/viewtopic.php?t=25126).
+OR [SandS (Space and Shift)](https://en.wikipedia.org/wiki/Modifier_key#Dual-role_keys).

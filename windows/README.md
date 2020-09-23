@@ -10,4 +10,4 @@
 Intaller - Mapped `left-alt` to `shift` using something like [SharpKeys](https://github.com/randyrants/sharpkeys).
 OR [SandS (Space and Shift)](https://en.wikipedia.org/wiki/Modifier_key#Dual-role_keys).
 
-PKL - in `pkl.ini` set "layout = IKBAEB-th" & suspendHotkey = RAlt & Shift.
+PKL - in `pkl.ini` set "layout = IKBAEB-th" & "suspendHotkey = RAlt & Shift".

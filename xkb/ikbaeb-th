@@ -35,7 +35,7 @@ xkb_symbols "ikbaeb-th" {
     
     key <AC01> { [ Thai_kokai,        Thai_phosamphao     ] };
     key <AC02> { [ Thai_hohip,        Thai_soso           ] };
-    key <AC03> { [ Thai_rorua,        Thai_sorusi         ] };
+    key <AC03> { [ Thai_rorua,        Thai_sorusi,        0x10025cc       ] };
     key <AC04> { [ Thai_nonu,         Thai_thothung       ] };
     key <AC05> { [ Thai_khokhwai,     Thai_sosala,        Thai_khokhon    ] };
     key <AC06> { [ Thai_maiek,        Thai_maichattawa,   Thai_phinthu    ] };

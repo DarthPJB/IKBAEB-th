@@ -2,8 +2,7 @@
 
 3 methods:
 
-- KLC for Microsoft Keyboard Layout Creator. Generate by yourself.
-- Installer. Generated using the Microsoft Keyboard Layout Creator. Just installed and workout.
+- KLC for Microsoft Keyboard Layout Creator. Generate and install by yourself.
 - PKL for Portable Keyboard Layout. Using without having to install them. Required download: http://pkl.sourceforge.net/ 
 
 # suggest 

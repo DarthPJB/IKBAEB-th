@@ -1,13 +1,12 @@
-[New rearrange layout here](https://gitlab.com/hiohlan/ikbaeb-th)
+# Note 
+
+This is [FORKed](https://gitlab.com/sahabandha/ikbaeb-th) for new key-arrange.
 
 # IKBAEB-th - Thai keyboard layout
 
 `IKBAEB-th` (Thai: อี๊กแบ็บ, <small>pronounced </small>[\[íːkbɛ̀p\]](https://en.wikipedia.org/wiki/Help:IPA/Thai), [iikᴴ-baepᴸ](http://thai-language.com/ref)) is an alternative Thai keyboard layout unlike [Kedmanee (เกษมณี)](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) or [Pattachote (ปัตตะโชติ)](https://en.wikipedia.org/wiki/Thai_Pattachote_keyboard_layout).
 
 ![IKBAEB-th layout 00](ikbatha0.png)
-*ikbatha0 : Digits row look like [Bitpaired](https://en.wikipedia.org/wiki/Bit-paired_keyboard)*
-![IKBAEB-th layout 01](ikbatha1.png)
-*ikbatha1 : Digits row look like US-Qwerty*
 
 This layout optimized for:
 

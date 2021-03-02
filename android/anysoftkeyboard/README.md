@@ -1,5 +1,6 @@
 # AnySoftKeyboard
 ![IKBAEB-th compact](img/0.jpg)![IKBAEB-th alt1](img/1.jpg)![IKBAEB-th alt2](img/2.jpg)
+
 IKBAEB-Thai layouts for [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) keyboard app.
 
 This is an expansion layouts pack for AnySoftKeyboard.
@@ -19,7 +20,7 @@ Cons
 
 # How compile
 1. [Requirements](https://github.com/AnySoftKeyboard/AnySoftKeyboard/blob/master/CONTRIBUTING.md).
-1. [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) sourcecode. They cannot buildy addon by standalone.
+1. [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) sourcecode. They cannot build addon by standalone.
 1. Put `ikbatha` folder in `%AnySoftKeyboard%/addons/languages/` .
 1. Add the new modules to Gradle. Edit settings.gradle, add the line:
 ```

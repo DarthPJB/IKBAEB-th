@@ -30,7 +30,7 @@ Use something like [xkeysnail](https://github.com/mooz/xkeysnail) to make [Dual-
 # License
 
 The keyboard layout, the implementations, and the downloadable things are available under the [**Public domain**](LICENSE)
-except the components in [`AnySoftKeyboard folder`](android/AnySoftKeyboard) which released under the [Apache2](https://www.apache.org/licenses/LICENSE-2.0) license same as AnySoftKeyboard.
+except the components in [`AnySoftKeyboard folder`](android/anysoftkeyboard) which released under the [Apache2](https://www.apache.org/licenses/LICENSE-2.0) license same as AnySoftKeyboard.
 
 Android is a trademark of Google Inc.
 

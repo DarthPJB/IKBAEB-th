@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ask="http://schemas.android.com/apk/res-auto"
+    android:keyWidth="8.33325%p"
+    android:keyHeight="@integer/key_normal_height"
+    ask:autoCap="false">
+    <Row>
+        <Key android:codes="ผ" ask:isShiftAlways="true" ask:shiftedCodes="ฎ" android:popupCharacters="๑" android:keyEdgeFlags="left" />
+        <Key android:codes="ป" ask:isShiftAlways="true" ask:shiftedCodes="ภ" android:popupCharacters="๒"/>
+        <Key android:codes="ง" ask:isShiftAlways="true" ask:shiftedCodes="ษ" android:popupCharacters="๓"/>
+        <Key android:codes="ล" ask:isShiftAlways="true" ask:shiftedCodes="ถ" android:popupCharacters="๔"/>
+        <Key android:codes="ต" ask:isShiftAlways="true" ask:shiftedCodes="ฏ" android:popupCharacters="๕"/>
+        <Key android:codes="แ" ask:isShiftAlways="true" ask:shiftedCodes="ฝ" android:popupCharacters="๖"/>
+        <Key android:codes="ิ" ask:isShiftAlways="true" ask:shiftedCodes="ึ" android:popupCharacters="๗"/>
+        <Key android:codes="่" ask:isShiftAlways="true" ask:shiftedCodes="๋" android:popupCharacters="๘"/>
+        <Key android:codes="้" ask:isShiftAlways="true" ask:shiftedCodes="็" android:popupCharacters="๙"/>
+        <Key android:codes="ใ" ask:isShiftAlways="true" ask:shiftedCodes="ฆ" android:popupCharacters="๐"/>
+        <Key android:codes="์" ask:isShiftAlways="true" ask:shiftedCodes="ฯ" android:popupCharacters="๚"/>
+        <Key android:codes="ๆ" ask:isShiftAlways="true" ask:shiftedCodes="๏" android:popupCharacters="๛"/>
+    </Row>
+    <Row>
+        <Key android:horizontalGap="4.66650%p" android:codes="ห" ask:isShiftAlways="true" ask:shiftedCodes="ฟ" android:keyEdgeFlags="left" />
+        <Key android:codes="ก" ask:isShiftAlways="true" ask:shiftedCodes="ซ" android:popupCharacters="◌"/>
+        <Key android:codes="ร" ask:isShiftAlways="true" ask:shiftedCodes="ข" android:popupCharacters="ฅ"/>
+        <Key android:codes="น" ask:isShiftAlways="true" ask:shiftedCodes="จ" android:popupCharacters="ฌ"/>
+        <Key android:codes="ด" ask:isShiftAlways="true" ask:shiftedCodes="ธ" />
+        <Key android:codes="ี" ask:isShiftAlways="true" ask:shiftedCodes="ื" />
+        <Key android:codes="า" ask:isShiftAlways="true" ask:shiftedCodes="ำ" android:popupCharacters="ๅ"/>
+        <Key android:codes="ย" ask:isShiftAlways="true" ask:shiftedCodes="พ" android:popupCharacters="ฺ"/>
+        <Key android:codes="อ" ask:isShiftAlways="true" ask:shiftedCodes="ช" android:popupCharacters="ํ"/>
+        <Key android:codes="ว" ask:isShiftAlways="true" ask:shiftedCodes="โ" android:popupCharacters="฿"/>
+        <Key android:codes="ู" ask:isShiftAlways="true" ask:shiftedCodes="ฬ" android:keyEdgeFlags="right" />
+    </Row>
+    <Row>
+        <Key android:codes="-1" android:keyEdgeFlags="left" android:isModifier="true" android:isSticky="true" />
+        <Key android:codes="บ" ask:isShiftAlways="true" ask:shiftedCodes="ฒ" />
+        <Key android:codes="ท" ask:isShiftAlways="true" ask:shiftedCodes="ฉ" android:popupCharacters="ฦ"/>
+        <Key android:codes="ส" ask:isShiftAlways="true" ask:shiftedCodes="ฐ" android:popupCharacters="ฃ"/>
+        <Key android:codes="ม" ask:isShiftAlways="true" ask:shiftedCodes="ณ" />
+        <Key android:codes="ค" ask:isShiftAlways="true" ask:shiftedCodes="ญ" />
+        <Key android:codes="ั" ask:isShiftAlways="true" ask:shiftedCodes="ฮ" android:popupCharacters="๎"/>
+        <Key android:codes="เ" ask:isShiftAlways="true" ask:shiftedCodes="ฑ" />
+        <Key android:codes="ะ" ask:isShiftAlways="true" ask:shiftedCodes="ศ" />
+        <Key android:codes="ไ" ask:isShiftAlways="true" ask:shiftedCodes="๊" />
+        <Key android:codes="ุ"  ask:isShiftAlways="true" ask:shiftedCodes="ฤ" />
+        <Key android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true" />
+    </Row>
+</Keyboard>

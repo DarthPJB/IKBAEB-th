@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/ikbatha_keyboard" iconResId="@drawable/ic_status_ikbatha"
+              layoutResId="@xml/ikbatha" id="1b1a8345-019c-470c-b824-01bbced5957c"
+              defaultDictionaryLocale="th" description="@string/ikbatha_keyboard_description"
+              index="1" defaultEnabled="true"
+              physicalKeyboardMappingResId="@xml/ikbatha_physical" />
+    <Keyboard nameResId="@string/ikbatha_keyboard_b" iconResId="@drawable/ic_status_ikbatha"
+              layoutResId="@xml/ikbatha_b" id="f1170cfa-41cb-496a-9ea5-27a129d5a40c"
+              defaultDictionaryLocale="th" description="@string/ikbatha_keyboard_b_description"
+              index="2" defaultEnabled="false"
+              physicalKeyboardMappingResId="@xml/ikbatha_physical" />
+    <Keyboard nameResId="@string/ikbatha_keyboard_c" iconResId="@drawable/ic_status_ikbatha"
+              layoutResId="@xml/ikbatha_c" id="d6b07303-b122-4353-be47-78bc1a7eb48a"
+              defaultDictionaryLocale="th" description="@string/ikbatha_keyboard_c_description"
+              index="3" defaultEnabled="false"
+              physicalKeyboardMappingResId="@xml/ikbatha_physical" />
+</Keyboards>

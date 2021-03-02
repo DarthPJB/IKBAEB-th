@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+           tools:ignore="MissingTranslation,TypographyDashes">
+
+    <string name="ikbatha_dictionary">IKBA-Thai</string>
+
+    <string name="ikbatha_keyboard">IKBA-Thai</string>
+    <string name="ikbatha_keyboard_b">IKBA-Thai alt1</string>
+    <string name="ikbatha_keyboard_c">IKBA-Thai alt2</string>
+    <string name="ikbatha_keyboard_description">IKBAEB-Thai keyboard compact</string>
+    <string name="ikbatha_keyboard_b_description">IKBAEB-Thai keyboard alt 1</string>
+    <string name="ikbatha_keyboard_c_description">IKBAEB-Thai keyboard alt 2</string>
+</resources>

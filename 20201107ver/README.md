@@ -1,6 +1,4 @@
-[New rearrange layout here](https://gitlab.com/hiohlan/ikbaeb-th)
-
-# IKBAEB-th - Thai keyboard layout
+# IKBAEB-th - Thai keyboard layout 20201107
 
 `IKBAEB-th` (Thai: อี๊กแบ็บ, <small>pronounced </small>[\[íːkbɛ̀p\]](https://en.wikipedia.org/wiki/Help:IPA/Thai), [iikᴴ-baepᴸ](http://thai-language.com/ref)) is an alternative Thai keyboard layout unlike [Kedmanee (เกษมณี)](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) or [Pattachote (ปัตตะโชติ)](https://en.wikipedia.org/wiki/Thai_Pattachote_keyboard_layout).
 

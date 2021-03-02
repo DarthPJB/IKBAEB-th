@@ -1,0 +1,71 @@
+// based on a keyboard map from an 'xkb/symbols/th' file
+
+default partial alphanumeric_keys
+xkb_symbols "ikbatha0" {
+    name[Group1]= "IKBAEB-th layout 00";
+    
+    key <TLDE> { [ slash,apostrophe  ,grave        ] };
+    key <AE01> { [ 1    ,exclam      ,Thai_leknung ] };
+    key <AE02> { [ 2    ,quotedbl    ,Thai_leksong ] };
+    key <AE03> { [ 3    ,numbersign  ,Thai_leksam  ] };
+    key <AE04> { [ 4    ,comma       ,Thai_leksi   ] };
+    key <AE05> { [ 5    ,percent     ,Thai_lekha   ] };
+    key <AE06> { [ 6    ,question    ,Thai_lekhok  ] };
+    key <AE07> { [ 7    ,period      ,Thai_lekchet ] };
+    key <AE08> { [ 8    ,parenleft   ,Thai_lekpaet ] };
+    key <AE09> { [ 9    ,parenright  ,Thai_lekkao  ] };
+    key <AE10> { [ 0    ,underscore  ,Thai_leksun  ] };
+    key <AE11> { [ minus,equal       ,asterisk     ] };
+    key <AE12> { [ plus ,asciitilde  ,asciicircum  ] };
+    key <AE13> { [ slash,apostrophe  ,grave        ] };
+
+    key <AD01> { [ Thai_phophung     ,Thai_dochada       ,bracketleft    ] };
+    key <AD02> { [ Thai_popla        ,Thai_phosamphao    ,0x1000e5a      ] };
+    key <AD03> { [ Thai_ngongu       ,Thai_sorusi        ,0x1000e5b      ] };
+    key <AD04> { [ Thai_loling       ,Thai_thothung      ,dollar         ] };
+    key <AD05> { [ Thai_totao        ,Thai_topatak       ,braceleft      ] };
+
+    key <AD06> { [ Thai_saraae       ,Thai_fofa          ,NoSymbol       ] };
+    key <AD07> { [ Thai_sarai        ,Thai_saraue        ,NoSymbol       ] };
+    key <AD08> { [ Thai_maiek        ,Thai_maichattawa   ,at             ] };
+    key <AD09> { [ Thai_maitho       ,Thai_maitaikhu     ,ampersand      ] };
+    key <AD10> { [ Thai_saraaimaimuan,Thai_khorakhang    ,NoSymbol       ] };
+    key <AD11> { [ Thai_thanthakhat  ,Thai_paiyannoi     ,NoSymbol       ] };
+    key <AD12> { [ Thai_maiyamok     ,0x1000e4f    ] };
+
+    key <BKSL> { [ Thai_baht         ,bar                ,backslash      ] };
+  //key <CAPS> { [ BackSpace         ,Escape             ,BackSpace      ] };
+
+    key <AC01> { [ Thai_hohip        ,Thai_fofan         ,bracketright    ] };
+    key <AC02> { [ Thai_kokai        ,Thai_soso          ,0x10025cc       ] };
+    key <AC03> { [ Thai_rorua        ,Thai_khokhai       ,Thai_khokhon    ] };
+    key <AC04> { [ Thai_nonu         ,Thai_chochan       ,Thai_chochoe    ] };
+    key <AC05> { [ Thai_dodek        ,Thai_thothong      ,braceright      ] };
+
+    key <AC06> { [ Thai_saraii       ,Thai_sarauee       ,colon           ] };
+    key <AC07> { [ Thai_saraaa       ,Thai_saraam        ,Thai_lakkhangyao] };
+    key <AC08> { [ Thai_yoyak        ,Thai_phophan       ,Thai_phinthu    ] };
+    key <AC09> { [ Thai_oang         ,Thai_chochang      ,Thai_nikhahit   ] };
+    key <AC10> { [ Thai_wowaen       ,Thai_sarao         ,semicolon       ] };
+    key <AC11> { [ Thai_sarauu       ,Thai_lochula       ,NoSymbol        ] };
+    
+    key <AB01> { [ Thai_bobaimai     ,Thai_thophuthao    ,NoSymbol        ] };
+    key <AB02> { [ Thai_thothahan    ,Thai_choching      ,Thai_lu         ] };
+    key <AB03> { [ Thai_sosua        ,Thai_thothan       ,Thai_khokhuat   ] };
+    key <AB04> { [ Thai_moma         ,Thai_nonen         ,NoSymbol        ] };
+    key <AB05> { [ Thai_khokhwai     ,Thai_yoying        ,NoSymbol        ] };
+    key <AB06> { [ Thai_maihanakat   ,Thai_honokhuk      ,0x1000e4e       ] };
+
+    key <AB07> { [ Thai_sarae        ,Thai_thonangmontho ,NoSymbol        ] };
+    key <AB08> { [ Thai_saraa        ,Thai_sosala        ,leftcaret       ] };
+    key <AB09> { [ Thai_saraaimaimalai,Thai_maitri       ,rightcaret      ] };
+    key <AB10> { [ Thai_sarau        ,Thai_ru            ,NoSymbol        ] };
+    key <AB11> { [ underscore        ,backslash          ,NoSymbol        ] };
+    
+    key <LSGT> { [ Shift_L           ,Shift_L             ] };
+    key <LFSH> { [ Shift_L           ,Shift_L             ] };
+    key <RALT> { [ ISO_Level3_Latch  ,ISO_Level3_Lock     ] };
+
+    //key <NFER> { [ ISO_Level3_Latch  ,ISO_Level3_Lock     ] };
+    //key <XFER> { [ Shift_L           ,Shift_L             ] };
+};

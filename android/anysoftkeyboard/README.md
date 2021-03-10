@@ -11,14 +11,14 @@ They work with AnySoftKeyboard v1.10-r4 and above.
 v1.10-r3 and below, shift-state bug. [^1]
 
 # Pros & Cons
-Pro
+Pros
 - Interesting
 - Use only 3 Rows (+ 1 Spacebar row)
 
 Cons
 - Finger travel is terrible.
 
-# How compile
+# How to build.
 1. [Requirements](https://github.com/AnySoftKeyboard/AnySoftKeyboard/blob/master/CONTRIBUTING.md).
 1. [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) sourcecode. They cannot build addon by standalone.
 1. Put `ikbatha` folder in `%AnySoftKeyboard%/addons/languages/` .

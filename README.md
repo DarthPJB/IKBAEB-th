@@ -1,5 +1,5 @@
 NOTE:
-This is keyboard layout is still in progress.
+This keyboard layout is still in progress.
 Unstable and may be changed several times .
 You could check the new one in `wip_test` branch.
 Old version available in `%DATE%ver` folders.

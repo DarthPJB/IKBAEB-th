@@ -1,3 +1,7 @@
+**IMPORTANT NOTE:
+Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai). This repository will not be maintain.**
+
+
 NOTE:
 This keyboard layout is still in progress.
 Unstable and may be changed several times .

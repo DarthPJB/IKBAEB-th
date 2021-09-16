@@ -1,5 +1,5 @@
 **IMPORTANT NOTE:
-Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai). This repository will not be maintain.**
+Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai). This repository is no longer actively maintained.**
 
 
 NOTE:

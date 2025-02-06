@@ -1,0 +1,1 @@
+JSON files for build keyboard for multiple OS with [hiohlan's forked kiimo](https://github.com/hiohlan/kiimo) (Keyboard Layout Modifier & Generator)

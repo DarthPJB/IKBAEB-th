@@ -1,6 +1,9 @@
 **IMPORTANT NOTE:
-Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai). This repository is no longer actively maintained.**
+~~Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai).~~(never mind, Creator have to work with minority language, So they stuck with modified Kedmanee ;< ) This repository is no longer actively maintained.**
 
+This keyboard layout also have matrix room.
+[#ikba0:matrix.org](https://matrix.to/#/#ikba0:matrix.org)
+Feel free to talk to us :)
 
 NOTE:
 This keyboard layout is still in progress.

@@ -6,10 +6,10 @@ This keyboard layout also have matrix room.
 Feel free to talk to us :)
 
 NOTE:
-This keyboard layout is still in progress.
+This keyboard layout is ~~still in progress.
 Unstable and may be changed several times .
 You could check the new one in `wip_test` branch.
-Old version available in `%DATE%ver` folders.
+Old version available in `%DATE%ver` folders.~~ now stable, no more change anymore. (please ignore whats in `wip_test` branch <3)
 
 # IKBAEB-th - Thai keyboard layout
 

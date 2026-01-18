@@ -1,5 +1,3 @@
-**IMPORTANT NOTE: This repository is no longer actively maintained.**
-
 This keyboard layout also have matrix room.
 [#ikba0:matrix.org](https://matrix.to/#/#ikba0:matrix.org)
 Feel free to talk to us :)

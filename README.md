@@ -1,15 +1,11 @@
-**IMPORTANT NOTE:
-~~Creator(@hiohlan) has switched to [Manoonchai Layout](https://github.com/manoonchai).~~(never mind, Creator have to work with minority language, So they stuck with modified Kedmanee ;< ) This repository is no longer actively maintained.**
+**IMPORTANT NOTE: This repository is no longer actively maintained.**
 
 This keyboard layout also have matrix room.
 [#ikba0:matrix.org](https://matrix.to/#/#ikba0:matrix.org)
 Feel free to talk to us :)
 
 NOTE:
-This keyboard layout is ~~still in progress.
-Unstable and may be changed several times .
-You could check the new one in `wip_test` branch.
-Old version available in `%DATE%ver` folders.~~ now stable, no more change anymore. (please ignore whats in `wip_test` branch <3)
+This keyboard layout is now stable, no more change anymore.
 
 # How to use easily:
  ```nix

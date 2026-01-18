@@ -1,3 +1,5 @@
+Orignally forked from https://gitlab.com/sahabandha/ikbaeb-th; ขอแสดงความเคารพอย่างสูงต่อ @hiohlan (Saamkhaih Kyakya)
+
 This keyboard layout also have matrix room.
 [#ikba0:matrix.org](https://matrix.to/#/#ikba0:matrix.org)
 Feel free to talk to us :)

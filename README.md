@@ -11,6 +11,14 @@ Unstable and may be changed several times .
 You could check the new one in `wip_test` branch.
 Old version available in `%DATE%ver` folders.~~ now stable, no more change anymore. (please ignore whats in `wip_test` branch <3)
 
+# How to use easily:
+ ```nix
+   {
+     services.xserver.extraLayouts = inputs.ikbaeb-th.extraLayouts ${pkgs.system};
+   }
+ ``` 
+ TIP: using `specialArgs` in a `nixosConfiguration` or `extraSpecialArgs` with `home-manager` + `{ inherit inputs; }` is a quick way to pass one’s Flake @inputs to imported files.
+
 # IKBAEB-th - Thai keyboard layout
 
 `IKBAEB-th` (Thai: อี๊กแบ็บ, <small>pronounced </small>[\[íːkbɛ̀p\]](https://en.wikipedia.org/wiki/Help:IPA/Thai), [iikᴴ-baepᴸ](http://thai-language.com/ref)) is an alternative Thai keyboard layout unlike [Kedmanee (เกษมณี)](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) or [Pattachote (ปัตตะโชติ)](https://en.wikipedia.org/wiki/Thai_Pattachote_keyboard_layout).
